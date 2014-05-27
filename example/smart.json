@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "xue": {
+      "-path": "..",
+      "git": "https://github.com/xdissent/xue.git"
+    },
+    "xue-ui": {
+      "-path": "../../xue-ui",
+      "git": "https://github.com/xdissent/xue-ui.git"
+    },
+    "jade": {},
+    "moment": {}
+  }
+}

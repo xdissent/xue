@@ -1,0 +1,11 @@
+{
+  "name": "xue",
+  "description": "Xue is a priority job queue backed by MongoDB, built for Meteor",
+  "homepage": "https://github.com/xdissent/xue",
+  "author": "Greg Thornton <xdissent@me.com> (http://xdissent.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/xdissent/xue.git",
+  "packages": {
+    "event-emitter": {}
+  }
+}
